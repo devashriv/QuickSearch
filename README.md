@@ -4,7 +4,7 @@ This is a simple python script that allows the user to obtain a list of files th
 
 Input:
 1. Enter the folder path
-2. Enter the file type
+2. Enter the file type to search in (eg. *.txt, *.docx, *.cs )
 3. Enter the string to look for
 
 Output:
